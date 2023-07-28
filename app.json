@@ -31,6 +31,9 @@
       "eas": {
         "projectId": "f6c9aa0a-030d-45b2-9d03-54817605fe51"
       }
-    }
+    },
+    "plugins": [
+      "expo-appcenter"
+    ]
   }
 }
